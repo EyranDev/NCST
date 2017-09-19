@@ -1,6 +1,5 @@
-CoinsAPI
-
-CoinsAPI is a Coinssystem and a CoinsAPI in one.
+# CoinsAPI
+NCST is a all in one plugin for every server
 
 NCST have many utils for a Spigot Server for example a Prefixs and Suffixs for a sorted Tablist or for the Chat. Other feature of the plugin are the Chat Layout, Tablist header and footer or a Scoreboard.
 Todo:
