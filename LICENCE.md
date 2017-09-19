@@ -1,4 +1,4 @@
-Terms:
+# Terms:  
 By downloading the plugin, you accept these rules. Last changed: 18th of september, 2017 at 19:45PM.
 
 You are not allowed to claim this plugin as your own.
