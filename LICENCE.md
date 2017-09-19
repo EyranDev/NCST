@@ -13,4 +13,4 @@ You are allowed to use this plugin for public use.
 You're not allowed to appropriate the code as yours.
 If you want to use it in another public plugin, first ask me, and if I accept, always put credits.
 
-CoinsSystem © 2015. All rights reserved by Niklas "EyranDev" Zabel.
+CoinsSystem © 2017. All rights reserved by Niklas "EyranDev" Zabel.
