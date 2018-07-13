@@ -1,5 +1,5 @@
 # Terms:  
-By downloading the plugin, you accept these rules. Last changed: 18th of september, 2017 at 19:45PM.
+By downloading the plugin, you accept these rules. Last changed: 13th of july, 2018 at 15:30PM.
 
 You are not allowed to claim this plugin as your own.
 You are not allowed to modify the code and/or call it your onw.
@@ -13,4 +13,4 @@ You are allowed to use this plugin for public use.
 You're not allowed to appropriate the code as yours.
 If you want to use it in another public plugin, first ask me, and if I accept, always put credits.
 
-CoinsSystem © 2017. All rights reserved by Niklas "EyranDev" Zabel.
+NCST © 2017. All rights reserved by Niklas "EyranDev" Zabel.
